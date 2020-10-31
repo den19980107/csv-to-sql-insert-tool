@@ -1,0 +1,3 @@
+﻿UnitId,DeptId,UnitNameFull,UnitName,UnitEngNameFull,UnitEngName,CampusId,UnitType,SortSeq,IsStudent,GraduDegree,GraduDegreeEng,MasterUnitId,ManageUnitId,RenameUnitId,EduUnitId,UseStatus,UnitStdId,UnitPcrsNo,UpdateId,UpdateTime
+U001,D1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL
+U002,D2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL

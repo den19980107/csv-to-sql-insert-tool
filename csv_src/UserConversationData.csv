@@ -1,0 +1,2 @@
+Id,ConversationType,ConversationId,BotId,UserId,GroupOrRoomId,ChannelId,ChannelData,ChannelUrl,Watermark,isEnableLiveChat,Data,CreateDate,UpdateDate
+220,user,cb927417-7592-4e72-8367-98f9edc6b508,hr_bot,P20190813000005,,webchat,"{""clientActivityID"":""1600671214215yd2xsmqc1s"",""clientTimestamp"":""2020-09-21T06:53:34.216Z""}",,0,0,{},53:34.0,35:49.0

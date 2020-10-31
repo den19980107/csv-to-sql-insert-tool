@@ -1,0 +1,3 @@
+﻿ClassId,ProgramId,UnitId,ClassYear,ClassSeq,ClassName,ClassNameFull,IsOpen,IsStudent,IsJob,ClassType,CampusId,IsGradInfo,GraduateUnitName,GraduateUnitNameEng,MasterName,MasterNameEng,Note,UseStatus,UpdateId,UpdateTime
+A001,P1,U001,1,1,課程1,A001-課程1,NULL,NULL,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+A002,P2,U002,1,1,課程2,A002-課程2,NULL,NULL,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
